@@ -5,3 +5,5 @@
 ![image](https://github.com/MrUmmataliyev/fullweb_material/assets/145908814/950e771c-4273-4e3f-ad0b-040195d0054f)
 ![image](https://github.com/MrUmmataliyev/fullweb_material/assets/145908814/0b969f54-eb71-4f9f-a3a5-ead9c3656dc3)
 ![image](https://github.com/MrUmmataliyev/fullweb_material/assets/145908814/7095761e-ea75-41e7-84e9-4a7fe397b97b)
+![image](https://github.com/MrUmmataliyev/fullweb_material/assets/145908814/9a6594c2-ed29-4dfe-904a-bf7dfa4e18c5)
+![image](https://github.com/MrUmmataliyev/fullweb_material/assets/145908814/8cee41ba-b5c2-445b-906a-d995c8cf1a8d)
