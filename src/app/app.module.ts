@@ -16,12 +16,18 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import {MatInputModule} from '@angular/material/input';
 import {MatFormFieldModule} from '@angular/material/form-field';
 import {MatSelectModule} from '@angular/material/select';
+import { GetByIdComponent } from './components/get-by-id/get-by-id.component';
+import { DeleteComponent } from './components/delete/delete.component';
+import { UpdateComponent } from './components/update/update.component';
 @NgModule({
   declarations: [
     AppComponent,
     GetallComponent,
     CreateComponent,
     NavbarComponent,
+    GetByIdComponent,
+    DeleteComponent,
+    UpdateComponent,
 
   ],
   imports: [
